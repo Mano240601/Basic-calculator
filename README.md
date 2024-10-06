@@ -16,13 +16,7 @@ A simple calculator application that allows users to perform basic arithmetic op
 - CSS
 - JavaScript
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd calculator
-calculator/
+#calculator
 ├── index.html        # Main HTML file
 ├── style.css         # CSS file for styling
 ├── script.js         # JavaScript file for functionality
